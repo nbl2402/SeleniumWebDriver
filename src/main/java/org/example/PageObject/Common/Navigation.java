@@ -1,4 +1,4 @@
-package org.example.PagObject.Common;
+package org.example.PageObject.Common;
 
 public class Navigation {
 

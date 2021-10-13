@@ -1,4 +1,4 @@
-package org.example.PagObject;
+package org.example.PageObject;
 
 public class LoginPageObject {
 

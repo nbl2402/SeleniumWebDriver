@@ -1,4 +1,4 @@
-package org.example.PagObject.Seller;
+package org.example.PageObject.Seller;
 
 public class ProfitPageObject {
     String profitAmountValue = "";
